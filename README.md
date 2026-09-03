@@ -14,7 +14,7 @@
 <br>
 <div align="center">
 <p>
-  Olá! Meu nome é "᲼" e sou estudante de programação,
+  Olá! Meu nome é Gabriel e sou estudante de programação,
   focado em evoluir constantemente no desenvolvimento de software.
 </p>
 <p>
